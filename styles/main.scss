@@ -86,6 +86,12 @@ img{
   .button__luxury{
     color: $colorLuxury;
   }
+  // === Button Hover ===
+  .button:hover{
+    color: white;
+    background: none;
+    border: 2px solid white;
+  }
 
 @media (min-width: 360px){
   .section__conteiner{
