@@ -24,7 +24,7 @@ Foi proposto recriar o seguinte site, fazendo o mais semelhante possível, a par
 
 ## Demo da minha solução:
 
-- [Solução do desafio 3-column preview card component challenge on Frontend Mentor]().
+- [Solução do desafio 3-column preview card component challenge on Frontend Mentor](https://brunosilvafaria.github.io/3-column-preview-card-component-main-/).
 
 ## Processo de desenvolvimento:
 
